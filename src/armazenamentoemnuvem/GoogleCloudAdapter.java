@@ -1,14 +1,34 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package armazenamentoemnuvem;
 
-/**
- *
- * @author 5696844
- */
-public class GoogleCloudAdapter {
+import com.google.api.client.auth.oauth2.Credential;
+import control.CloudAdapter;
+import java.io.File;
+import java.util.ArrayList;
+
+
+public class GoogleCloudAdapter implements CloudAdapter{
     
+    @Override
+    public void autenticacao() {
+        
+    }
+
+    @Override
+    public boolean uploadArquivo(String file) {
+        return false;
+    }
+
+    @Override
+    public File downloadArquivo(String file) {
+        return null;
+    }
+
+    @Override
+    public ArrayList<String> exibirArquivos() {
+        return null;
+    }
+    
+    private static Credential authorize() throws Exception{
+        
+    }
 }
