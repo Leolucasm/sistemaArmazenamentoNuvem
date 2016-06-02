@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sistemaarmazenamentonuvem",
+  "private_key_id": "61196baa9e9edb68a24e06dcbcd2932809e7cc4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZhmFAqbbsCJQx\nceyKIGQ/RX8Ql/y+V70dWVyUnVkh8bVUeH5hkPiFx3xABnZ8yl1K2sCyadHlbHd3\nvRRQ/xB9OMcmtzoedVV6VQAa9ci9f2/xpz7YLi2VHhf8SCRWEhOzza4aDN3a/85Q\nBVPnYVGB/rRadqjHtKB8DvECBZyCeKphlK99HY6yglk7i8mFB9SnuujMZJdd+bst\n3VIZw+gNbvmVGjFSMQj0UX1BPzyWlzcY5K3Qh3ffnPITeltGml3yXhDSAu4rxtFk\n/6N6ZveGkiFbZjdQWMuoSMjjMmXZGxNkmMoNdXopi8ZCWtMzxmWWBaHvJtu0OWSz\nd4z2BqnJAgMBAAECggEAAYU0J1jG5/V5yjePmRqTA5Fjnb1zkkr6I3VEFnCsdkqX\nehurXLn7zA9aqqOlvryeSeR6rgmgO35kfHoR3m94MVVDm52K5MxSqWB4HMw8Tawa\nZrE6TRe/+c8Pe78XJQcOzOQHiliARe/skhxLZWowTXJBRPgR2dBvGmtndZaqoxwc\nw437m5Pa6ZnpnA+8lAD4vH37njVI6d+CeEMo/+t1UZO39dGEszq9/QQx+FcsJ1Bd\nEqpe/E4pU1NsJ3uEpma9GiBK0cR9+ZKGroPBFIkof6oY5dL/gtfg3mhYZiwzBKHw\nta3xHRYWzxXWS07/KMwrtK/XOnGkUxsKjeiSH+hdkQKBgQD57p/H/I93Yi+4++UL\nProvs8BkbJnaSftAvwFam+LhQalbeHcJVmTBmJmR8dasurXnoa5YVurhI1IKrrLB\nayvNLhyHV16FWv0C7zgjCbCFmbOm7johtMnxLlb6lRQ2ENOqDi9bUmBt74amJ7oo\nEzOuF94Fiqz9pVWnkDRATq4Q/QKBgQCdQJELLSSULOQYkSqh+fT+tJUZZu4w/Cjx\npdWNWjKVkvS9dM5Xatv4kBu4m+BH4GjZg0PiBymN3Yar3maDZ7QvY9qbNLOAEBj9\nx0JWHpKJRJjVLn7JinFiDiyn1sHPNSoWQgmpfkGpi2q+nd2fxO4IBHKXJv4ZuFwu\nXZezBdJLvQKBgD2c0c7fOA7aKaGUl1Y6VHPGADvBefwSGNpRO+g2XaviH/norI+k\nuJnxIIqV77INJSLA/NXSN3zg1CzF/FMqNFYUc/v5UdfWImFCz7fzf4yv41XXjIUa\nqF3IarDDZ4QcidF2Rb5hhFwVnEABsyaF9UuJnrYHBbZRt9fi+L6Rpt+RAoGAeyf5\nMLafQklSLwdqS0dXIDBP4YAipkymyHKnqLfujAR3FvYnMIGpW6eJfnDeG4zesRPE\nE36mhcvsUCizQtDyZnce25VPy8lPuVnYU1hITadixvtOIwwBNtmBEcX5Lg4mMx5v\nMMaIKH/fDwDWdO2nurG5CTZppb0kvM9iIrw5ckUCgYAmbA327+0ILVGCLTsoV0xY\nYjeZAyKSyJF6/17lC/c5Mpo3RdFjoUXmpbNdhwM+qjaK+Zd4Epf5fSkknwUQPfNk\nLuQVW5HwcYG9EHu8gy1GHk4XPa51+LscEhffsX58Q+8VqO31db1iUhTCCEMRtVMv\nGoCAAIodoChe2AXwQ0wgOA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trabalhojavaapi@sistemaarmazenamentonuvem.iam.gserviceaccount.com",
+  "client_id": "118328634617615115396",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trabalhojavaapi%40sistemaarmazenamentonuvem.iam.gserviceaccount.com"
+}
